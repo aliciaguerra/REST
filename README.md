@@ -12,3 +12,9 @@ The architectural properties affected by the constraints of the REST architectur
 - Modifiability of components to meet changing needs (even while the application is running)
 - Visibility of communication between components by service agents
 - Portability of components by moving program code with the data
+- Reliability is the resistance to failure at the system level in the presence of failures within components, connectors, or data
+
+#Architectural Constraints
+The architectural properties of REST are realized by applying specific interaction constraints to components, connectors, and data elements. The formal REST constraints are: <br>
+
+
